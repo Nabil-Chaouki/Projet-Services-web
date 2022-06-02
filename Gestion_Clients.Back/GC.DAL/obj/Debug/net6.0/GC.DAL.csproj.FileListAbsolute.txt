@@ -1,0 +1,14 @@
+C:\Users\N\Documents\GitHub\Projet-Services-web\Gestion_Clients.Back\GC.DAL\bin\Debug\net6.0\GC.DAL.deps.json
+C:\Users\N\Documents\GitHub\Projet-Services-web\Gestion_Clients.Back\GC.DAL\bin\Debug\net6.0\GC.DAL.runtimeconfig.json
+C:\Users\N\Documents\GitHub\Projet-Services-web\Gestion_Clients.Back\GC.DAL\bin\Debug\net6.0\GC.DAL.dll
+C:\Users\N\Documents\GitHub\Projet-Services-web\Gestion_Clients.Back\GC.DAL\bin\Debug\net6.0\GC.DAL.pdb
+C:\Users\N\Documents\GitHub\Projet-Services-web\Gestion_Clients.Back\GC.DAL\obj\Debug\net6.0\GC.DAL.csproj.AssemblyReference.cache
+C:\Users\N\Documents\GitHub\Projet-Services-web\Gestion_Clients.Back\GC.DAL\obj\Debug\net6.0\GC.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\N\Documents\GitHub\Projet-Services-web\Gestion_Clients.Back\GC.DAL\obj\Debug\net6.0\GC.DAL.AssemblyInfoInputs.cache
+C:\Users\N\Documents\GitHub\Projet-Services-web\Gestion_Clients.Back\GC.DAL\obj\Debug\net6.0\GC.DAL.AssemblyInfo.cs
+C:\Users\N\Documents\GitHub\Projet-Services-web\Gestion_Clients.Back\GC.DAL\obj\Debug\net6.0\GC.DAL.csproj.CoreCompileInputs.cache
+C:\Users\N\Documents\GitHub\Projet-Services-web\Gestion_Clients.Back\GC.DAL\obj\Debug\net6.0\GC.DAL.dll
+C:\Users\N\Documents\GitHub\Projet-Services-web\Gestion_Clients.Back\GC.DAL\obj\Debug\net6.0\refint\GC.DAL.dll
+C:\Users\N\Documents\GitHub\Projet-Services-web\Gestion_Clients.Back\GC.DAL\obj\Debug\net6.0\GC.DAL.pdb
+C:\Users\N\Documents\GitHub\Projet-Services-web\Gestion_Clients.Back\GC.DAL\obj\Debug\net6.0\GC.DAL.genruntimeconfig.cache
+C:\Users\N\Documents\GitHub\Projet-Services-web\Gestion_Clients.Back\GC.DAL\obj\Debug\net6.0\ref\GC.DAL.dll
