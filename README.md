@@ -16,7 +16,7 @@
   ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
  ## Controle De Version 
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-   ## Controle De Version 
+   ## Comment lancer le projet 
   ###Backend
   <p>Il faut ouvrir le projet dans visual studio est changer la chaine de connexion dans le fichier appsettings.json et écrire votre chaine de connexion de la base donnée Sql server dans "MyConn", après exécuter le projet </p>
  ###Frontend 
