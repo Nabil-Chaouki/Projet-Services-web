@@ -1,0 +1,22 @@
+<table class="table">
+  <thead>
+    <tr>
+      <th scope="col">RefContact</th>
+      <th scope="col">Nom</th>
+      <th scope="col">Prenom</th>
+      <th scope="col">Adresse</th>
+      <th scope="col">Ville</th>
+      <th scope="col">CodePostal</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let client of clients">
+      <td>{{client.refContact}}</td>
+      <td>{{client.nom}}</td>
+      <td>{{client.prenom}}</td>
+      <td>{{client.adresse}}</td>
+      <td>{{client.ville}}</td>
+      <td>{{client.codePostal}}</td>
+    </tr>
+  </tbody>
+  </table >

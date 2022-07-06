@@ -1,0 +1,7 @@
+<button type="button" class="btn btn-primary" (click)="toggleFormulShow()">{{showFormul?"Masquer les données":"Afficher les données"}}</button>
+<ng-container *ngIf="showFormul">
+  <div>
+    <input (change)="onSearchInputChange()" [(ngModel)]="searchQuery" placeholder="Taper pour rechercher ..." />
+    <app-clients [clients]="clients"></app-clients>
+  </div>
+</ng-container>

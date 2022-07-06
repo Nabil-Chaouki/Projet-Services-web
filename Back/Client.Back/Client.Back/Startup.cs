@@ -27,6 +27,7 @@ namespace Client.Back
         {
             services.AddControllersWithViews();
             services.AddDbContext<CLContext>(options => options.UseSqlServer(Configuration.GetConnectionString("MyConn")));
+            services.AddCors(options => options.AddPolicy("MyCorsImplementationPoliciy",builder => builder.WithOrigins("*")));
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -48,6 +49,8 @@ namespace Client.Back
             app.UseRouting();
 
             app.UseAuthorization();
+
+            app.UseCors("MyCorsImplementationPoliciy");
 
             app.UseEndpoints(endpoints =>
             {

@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Microsoft.AspNetCore.Cors;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
@@ -10,6 +11,7 @@ namespace Client.Back.Models
 {
     [Route("api/[controller]")]
     [ApiController]
+    [EnableCors("MyCorsImplementationPoliciy")]
     public class ClientsController : ControllerBase
     {
         private readonly CLContext _context;

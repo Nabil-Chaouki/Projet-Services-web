@@ -3,7 +3,7 @@ export class Home extends Component{
     render(){
         return(
            
-            <h3>it works</h3>
+            <h3>Home page</h3>
         )
     }
 }
